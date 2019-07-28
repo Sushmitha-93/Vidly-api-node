@@ -1,3 +1,5 @@
+//Reading from environment variables for the Production build
 {
-  "jwtPrivateKey": "vidly_jwtPrivateKey"
+  "jwtPrivateKey": "vidly_jwtPrivateKey",
+  "db": "vidly_db"
 }
